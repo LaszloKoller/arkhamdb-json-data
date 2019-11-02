@@ -36,12 +36,6 @@
         "size": 7
     },
     {
-        "code": "promotional",
-        "name": "Promotional",
-        "position": 80,
-        "size": 20
-    },
-    {
         "code": "return",
         "name": "Return to...",
         "position": 50,
@@ -51,6 +45,12 @@
         "code": "side_stories",
         "name": "Side Stories",
         "position": 70,
+        "size": 20
+    },
+    {
+        "code": "promo",
+        "name": "Promotional",
+        "position": 80,
         "size": 20
     }
 ]
