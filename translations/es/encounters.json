@@ -4,6 +4,18 @@
         "name": "El fantasma de la verdad"
     },
     {
+        "code": "abyssal_gifts",
+        "name": "Regalos abisales"
+    },
+    {
+        "code": "abyssal_tribute",
+        "name": "Tributo abisal"
+    },
+    {
+        "code": "agents_of_azathoth",
+        "name": "Agentes de Azathoth"
+    },
+    {
         "code": "agents_of_cthulhu",
         "name": "Agentes de Cthulhu"
     },
@@ -17,7 +29,7 @@
     },
     {
         "code": "agents_of_yig",
-        "name": "Agents of Yig"
+        "name": "Agentes de Yig"
     },
     {
         "code": "agents_of_yog",
@@ -28,12 +40,20 @@
         "name": "Antiguos males"
     },
     {
+        "code": "anettes_coven",
+        "name": "Aquelarre de Anette"
+    },
+    {
         "code": "arkham",
         "name": "Las máscaras de medianoche"
     },
     {
         "code": "armitages_fate",
         "name": "El destino de Armitage"
+    },
+    {
+        "code": "at_deaths_doorstep",
+        "name": "A las puertas de la muerte"
     },
     {
         "code": "bad_luck",
@@ -48,6 +68,14 @@
         "name": "Esclavos-bestia"
     },
     {
+        "code": "before_the_black_throne",
+        "name": "Ante el trono negro"
+    },
+    {
+        "code": "beyond_the_threshold",
+        "name": "Más allá del umbral"
+    },
+    {
         "code": "bishops_thralls",
         "name": "Esclavos de Bishop"
     },
@@ -60,12 +88,24 @@
         "name": "Sangre en el altar"
     },
     {
+        "code": "brotherhood_of_the_beast",
+        "name": "La Hermandad de la bestia"
+    },
+    {
         "code": "byakhee",
         "name": "Byakhee"
     },
     {
         "code": "chilling_cold",
         "name": "Frío helador"
+    },
+    {
+        "code": "city_of_sins",
+        "name": "Ciudad de pecados"
+    },
+    {
+        "code": "creeping_cold",
+        "name": "Frío insidioso"
     },
     {
         "code": "cult_of_the_yellow_sign",
@@ -84,12 +124,24 @@
         "name": "Podredumbre e impurezas"
     },
     {
+        "code": "decaying_reality",
+        "name": "Realidad putrefacta"
+    },
+    {
         "code": "delusions",
         "name": "Delirios"
     },
     {
+        "code": "delusory_evils",
+        "name": "Males ilusorios"
+    },
+    {
         "code": "dim_carcosa",
         "name": "Penumbrosa Carcosa"
+    },
+    {
+        "code": "disappearance_at_the_twilight_estate",
+        "name": "Desaparición en la finca del Crepúsculo"
     },
     {
         "code": "dunwich",
@@ -101,7 +153,11 @@
     },
     {
         "code": "epic_multiplayer",
-        "name": "Epic Multiplayer"
+        "name": "Multijugador épico"
+    },
+    {
+        "code": "erratic_fear",
+        "name": "Miedo errático"
     },
     {
         "code": "essex_county_express",
@@ -113,7 +169,7 @@
     },
     {
         "code": "expedition",
-        "name": "Expedition"
+        "name": "Expedición"
     },
     {
         "code": "extracurricular_activity",
@@ -132,12 +188,24 @@
         "name": "Flujo temporal"
     },
     {
+        "code": "for_the_greater_good",
+        "name": "Por el bien común"
+    },
+    {
         "code": "ghouls",
         "name": "Gules"
     },
     {
+        "code": "ghouls_of_umôrdhoth",
+        "name": "Gules de Umôrdhoth"
+    },
+    {
         "code": "guardians_of_time",
         "name": "Guardianes del tiempo"
+    },
+    {
+        "code": "hasturs_envoys",
+        "name": "Enviados de Hastur"
     },
     {
         "code": "hasturs_gift",
@@ -149,19 +217,31 @@
     },
     {
         "code": "heart_of_the_elders",
-        "name": "Heart of the Elders"
+        "name": "El corazón de los ancianos"
     },
     {
         "code": "hideous_abominations",
         "name": "Abominaciones espantosas"
     },
     {
+        "code": "in_the_clutches_of_chaos",
+        "name": "En las garras del caos"
+    },
+    {
         "code": "in_the_labyrinths_of_lunacy",
-        "name": "In The Labyrinths of Lunacy"
+        "name": "Los laberintos de la demencia"
+    },
+    {
+        "code": "inexorable_fate",
+        "name": "Destino inexorable"
     },
     {
         "code": "inhabitants_of_carcosa",
         "name": "Habitantes de Carcosa"
+    },
+    {
+        "code": "knyan",
+        "name": "K'n-yan"
     },
     {
         "code": "locked_doors",
@@ -172,8 +252,20 @@
         "name": "Perdidos en el tiempo y el espacio"
     },
     {
+        "code": "maddening_delusions",
+        "name": "Delirios enloquecedores"
+    },
+    {
+        "code": "music_of_the_damned",
+        "name": "Música de los condenados"
+    },
+    {
         "code": "naomis_crew",
         "name": "La banda de Naomi"
+    },
+    {
+        "code": "neurotic_fear",
+        "name": "Miedo neurótico"
     },
     {
         "code": "nightgaunts",
@@ -182,6 +274,10 @@
     {
         "code": "pentagram",
         "name": "Secta oscura"
+    },
+    {
+        "code": "pillars_of_judgment",
+        "name": "Columnas del juicio"
     },
     {
         "code": "pnakotic_brotherhood",
@@ -200,6 +296,94 @@
         "name": "Ratas"
     },
     {
+        "code": "realm_of_death",
+        "name": "El reino de la muerte"
+    },
+    {
+        "code": "resurgent_evils",
+        "name": "Males renacientes"
+    },
+    {
+        "code": "return_cult",
+        "name": "Secta de Umôrdhoth"
+    },
+    {
+        "code": "return_to_a_phantom_of_truth",
+        "name": "Regreso a El fantasma de la verdad"
+    },
+    {
+        "code": "return_to_black_stars_rise",
+        "name": "Regreso a Surgen estrellas negras"
+    },
+    {
+        "code": "return_to_blood_on_the_altar",
+        "name": "Regreso a Sangre en el altar"
+    },
+    {
+        "code": "return_to_curtain_call",
+        "name": "Regreso a Se cierra el telón"
+    },
+    {
+        "code": "return_to_dim_carcosa",
+        "name": "Regreso a Penumbrosa Carcosa"
+    },
+    {
+        "code": "return_to_echoes_of_the_past",
+        "name": "Regreso a Ecos del pasado"
+    },
+    {
+        "code": "return_to_extracurricular_activities",
+        "name": "Regreso a Actividades extracurriculares"
+    },
+    {
+        "code": "return_to_lost_in_time_and_space",
+        "name": "Regreso a Perdidos en el tiempo y el espacio"
+    },
+    {
+        "code": "return_to_the_devourer_below",
+        "name": "Regreso al Devorador de las Profundidades"
+    },
+    {
+        "code": "return_to_the_essex_county_express",
+        "name": "Regreso a el Essex County Express"
+    },
+    {
+        "code": "return_to_the_gathering",
+        "name": "Regreso a El encuentro"
+    },
+    {
+        "code": "return_to_the_house_always_wins",
+        "name": "Regreso a La casa siempre gana"
+    },
+    {
+        "code": "return_to_the_last_king",
+        "name": "Regreso a El último rey"
+    },
+    {
+        "code": "return_to_the_midnight_masks",
+        "name": "Regreso a Las máscaras a medianoche"
+    },
+    {
+        "code": "return_to_the_miskatonic_museum",
+        "name": "Regreso al Museo Miskatonic"
+    },
+    {
+        "code": "return_to_the_pallid_mask",
+        "name": "Regreso a La máscara pálida"
+    },
+    {
+        "code": "return_to_the_unspeakable_oath",
+        "name": "Regreso a El juramento inconfesable"
+    },
+    {
+        "code": "return_to_undimensioned_and_unseen",
+        "name": "Regreso a Invisibles y sin dimensión"
+    },
+    {
+        "code": "return_to_where_doom_awaits",
+        "name": "Regreso a Donde aguarda la perdición"
+    },
+    {
         "code": "rougarou",
         "name": "La maldición del Rougarou"
     },
@@ -208,20 +392,40 @@
         "name": "Ruinas olvidadas"
     },
     {
+        "code": "sands_of_egypt",
+        "name": "Arenas de Egipto"
+    },
+    {
+        "code": "secret_doors",
+        "name": "Puertas secretas"
+    },
+    {
+        "code": "secrets_of_the_universe",
+        "name": "Secretos del universo"
+    },
+    {
         "code": "serpents",
-        "name": "Serpents"
+        "name": "Serpientes"
     },
     {
         "code": "shattered_aeons",
-        "name": "Shattered Aeons"
+        "name": "Eones destrozados"
+    },
+    {
+        "code": "silver_twilight_lodge",
+        "name": "Logia del Crepúsculo de Plata"
     },
     {
         "code": "single_group",
-        "name": "Single"
+        "name": "Grupo único"
     },
     {
         "code": "sorcery",
         "name": "Hechicería"
+    },
+    {
+        "code": "spectral_predators",
+        "name": "Depredadores espectrales"
     },
     {
         "code": "stranger",
@@ -241,15 +445,23 @@
     },
     {
         "code": "the_boundary_beyond",
-        "name": "The Boundary Beyond"
+        "name": "El límite del otro lado"
     },
     {
         "code": "the_city_of_archives",
-        "name": "The City of Archives"
+        "name": "La Ciudad de los Archivos"
     },
     {
         "code": "the_depths_of_yoth",
-        "name": "The Depths of Yoth"
+        "name": "Las profundidades de Yoth"
+    },
+    {
+        "code": "the_devourers_cult",
+        "name": "La secta del Devorador"
+    },
+    {
+        "code": "the_eternal_slumber",
+        "name": "El letargo eterno"
     },
     {
         "code": "the_house_always_wins",
@@ -264,28 +476,60 @@
         "name": "El museo Miskatonic"
     },
     {
+        "code": "the_nights_usurper",
+        "name": "El usurpador de la noche"
+    },
+    {
         "code": "the_pallid_mask",
         "name": "La máscara pálida"
+    },
+    {
+        "code": "the_secret_name",
+        "name": "El nombre secreto"
     },
     {
         "code": "the_unspeakable_oath",
         "name": "El juramento inconfesable"
     },
     {
+        "code": "the_wages_of_sin",
+        "name": "La paga del pecado"
+    },
+    {
+        "code": "the_watcher",
+        "name": "El vigilante"
+    },
+    {
+        "code": "the_witching_hour",
+        "name": "La hora bruja"
+    },
+    {
         "code": "threads_of_fate",
-        "name": "Threads of Fate"
+        "name": "Los hilos del destino"
     },
     {
         "code": "torch",
         "name": "El encuentro"
     },
     {
+        "code": "trapped_spirits",
+        "name": "Espíritus atrapados"
+    },
+    {
         "code": "traps",
         "name": "Trampas letales"
     },
     {
+        "code": "turn_back_time",
+        "name": "Vuelta atrás en el tiempo"
+    },
+    {
         "code": "undimensioned_and_unseen",
         "name": "Invisibles y sin dimensión"
+    },
+    {
+        "code": "union_and_disillusion",
+        "name": "Unión y desilusión"
     },
     {
         "code": "unknown",
@@ -314,5 +558,13 @@
     {
         "code": "wilds",
         "name": "Naturaleza salvaje"
+    },
+    {
+        "code": "witchcraft",
+        "name": "Brujería"
+    },
+    {
+        "code": "yog_sothoths_emissaries",
+        "name": "Emisarios de Yog-Sothoth"
     }
 ]

@@ -371,6 +371,7 @@
 		"pack_code": "ptc",
 		"position": 59,
 		"quantity": 1,
+    "subtype_code": "weakness",
 		"text": "<b>Spawn</b> - Location farthest from all investigators.\nAloof.\n[action]: <b>Investigate.</b> Your location gets +2 shroud for this investigation. If you succeed, instead of discovering clues, defeat The Man in the Pallid Mask.",
 		"traits": "Humanoid. Elite.",
 		"type_code": "enemy"
@@ -781,7 +782,7 @@
 	{
 		"code": "03076b",
 		"faction_code": "mythos",
-		"flavor": "It doesn't take long for the amiable hostess to open up to you about the play. \"Oh yes, my husband and I helped Sebastien produce the whole thing,\" she explains. \"I was a little hesitant at first, but that director - Mr. Nigel Engram - my, what a talented man!\" She laughs. \"He's so very eccentric! Did you know, before rehearsals even began, he had us recite some kind of… Why, I suppose it was an oath of sorts. A formality, I guess. You know creative types and their silly rituatls. But afterward, we were filled with so much spirit!\" She smiles, zeal in her eyes. \"From that moment on, we had no hesitations. <u>The King in Yellow</u> would be the most successful performance in Arkham history!\"",
+		"flavor": "It doesn't take long for the amiable hostess to open up to you about the play. \"Oh yes, my husband and I helped Sebastien produce the whole thing,\" she explains. \"I was a little hesitant at first, but that director - Mr. Nigel Engram - my, what a talented man!\" She laughs. \"He's so very eccentric! Did you know, before rehearsals even began, he had us recite some kind of… Why, I suppose it was an oath of sorts. A formality, I guess. You know creative types and their silly rituals. But afterward, we were filled with so much spirit!\" She smiles, zeal in her eyes. \"From that moment on, we had no hesitations. <u>The King in Yellow</u> would be the most successful performance in Arkham history!\"",
 		"hidden": true,
 		"name": "Engram's Oath",
 		"pack_code": "ptc",
@@ -1320,7 +1321,7 @@
 		"encounter_position": 5,
 		"enemy_damage": 1,
 		"enemy_evade": 3,
-		"enemy_fight": 0,
+		"enemy_fight": -2,
 		"faction_code": "mythos",
 		"flavor": "A mass of skittering roaches completely covers the floor, leaving a trail of sticky brown ooze in its wake.",
 		"health": 2,

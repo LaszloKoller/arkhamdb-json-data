@@ -17,11 +17,19 @@
     },
     {
         "code": "return",
-        "name": "Return to..."
+        "name": "Regreso a..."
     },
     {
         "code": "side_stories",
         "name": "Misiones secundarias"
+    },
+    {
+        "code": "tcu",
+        "name": "El Círculo Roto"
+    },
+    {
+        "code": "tde",
+        "name": "The Dream-Eaters"
     },
     {
         "code": "tfa",

@@ -17,11 +17,19 @@
     },
     {
         "code": "return",
-        "name": "Return to..."
+        "name": "Ritorno a..."
     },
     {
         "code": "side_stories",
         "name": "Storie Secondarie"
+    },
+    {
+        "code": "tcu",
+        "name": "Il Circolo Spezzato"
+    },
+    {
+        "code": "tde",
+        "name": "The Dream-Eaters"
     },
     {
         "code": "tfa",

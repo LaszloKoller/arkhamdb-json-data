@@ -336,7 +336,7 @@
         "encounter_position": 18,
         "faction_code": "mythos",
         "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?",
-        "flavor": "Sandstone sculptures and bejeweled artifacts from another era clutter this exhibit, like the tomb of an ancient pharoah.",
+        "flavor": "Sandstone sculptures and bejeweled artifacts from another era clutter this exhibit, like the tomb of an ancient pharaoh.",
         "illustrator": "John Goodenough",
         "name": "Exhibit Hall",
         "subname": "Egyptian Exhibit",
@@ -394,7 +394,6 @@
     {
         "code": "02138",
         "cost": 0,
-        "deck_limit": 0,
         "encounter_code": "the_miskatonic_museum",
         "encounter_position": 21,
         "faction_code": "neutral",
@@ -414,7 +413,6 @@
     {
         "code": "02139",
         "cost": 0,
-        "deck_limit": 0,
         "encounter_code": "the_miskatonic_museum",
         "encounter_position": 22,
         "faction_code": "neutral",

@@ -4,6 +4,10 @@
         "name": "Lo Spettro della Verità"
     },
     {
+        "code": "bbt",
+        "name": "Before the Black Throne"
+    },
+    {
         "code": "books",
         "name": "Libri"
     },
@@ -40,8 +44,20 @@
         "name": "Echi dal Passato"
     },
     {
+        "code": "fgg",
+        "name": "For the Greater Good"
+    },
+    {
+        "code": "guardians",
+        "name": "Guardians of the Abyss"
+    },
+    {
         "code": "hote",
-        "name": "Heart of the Elders"
+        "name": "Cuore degli Antichi"
+    },
+    {
+        "code": "icc",
+        "name": "In the Clutches of Chaos"
     },
     {
         "code": "litas",
@@ -49,7 +65,7 @@
     },
     {
         "code": "lol",
-        "name": "The Labyrinths of Lunacy"
+        "name": "I Labirinti della Follia"
     },
     {
         "code": "promo",
@@ -60,24 +76,40 @@
         "name": "La Strada per Carcosa"
     },
     {
+        "code": "rtdwl",
+        "name": "Return to the Dunwich Legacy"
+    },
+    {
         "code": "rtnotz",
-        "name": "Return to the Night of the Zealot"
+        "name": "Ritorno a... la Notte della Zelota"
+    },
+    {
+        "code": "rtptc",
+        "name": "Return to the Path to Carcosa"
     },
     {
         "code": "sha",
-        "name": "Shattered Aeons"
+        "name": "Eoni Infranti"
     },
     {
         "code": "tbb",
-        "name": "The Boundary Beyond"
+        "name": "Oltre i Confini"
     },
     {
         "code": "tcoa",
-        "name": "The City of Archives"
+        "name": "Città degli Archivi"
+    },
+    {
+        "code": "tcu",
+        "name": "The Circle Undone"
+    },
+    {
+        "code": "tde",
+        "name": "The Dream-Eaters"
     },
     {
         "code": "tdoy",
-        "name": "The Depths of Yoth"
+        "name": "Abissi di Yoth"
     },
     {
         "code": "tece",
@@ -93,15 +125,23 @@
     },
     {
         "code": "tof",
-        "name": "Threads of Fate"
+        "name": "Trame del Fato"
     },
     {
         "code": "tpm",
         "name": "La Maschera Pallida"
     },
     {
+        "code": "tsn",
+        "name": "The Secret Name"
+    },
+    {
         "code": "tuo",
         "name": "Il Giuramento Impronunciabile"
+    },
+    {
+        "code": "uad",
+        "name": "Union and Disillusion"
     },
     {
         "code": "uau",
@@ -110,5 +150,9 @@
     {
         "code": "wda",
         "name": "Verso un Destino Oscuro"
+    },
+    {
+        "code": "wos",
+        "name": "The Wages of Sin"
     }
 ]

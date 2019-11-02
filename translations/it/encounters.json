@@ -4,6 +4,18 @@
         "name": "Lo Spettro della Verità"
     },
     {
+        "code": "abyssal_gifts",
+        "name": "Abyssal Gifts"
+    },
+    {
+        "code": "abyssal_tribute",
+        "name": "Abyssal Tribute"
+    },
+    {
+        "code": "agents_of_azathoth",
+        "name": "Agents of Azathoth"
+    },
+    {
         "code": "agents_of_cthulhu",
         "name": "Agenti di Cthulhu"
     },
@@ -17,7 +29,7 @@
     },
     {
         "code": "agents_of_yig",
-        "name": "Agents of Yig"
+        "name": "Agenti di Yig"
     },
     {
         "code": "agents_of_yog",
@@ -28,12 +40,20 @@
         "name": "Mali Antichi"
     },
     {
+        "code": "anettes_coven",
+        "name": "Anette's Coven"
+    },
+    {
         "code": "arkham",
         "name": "Le Maschere di Mezzanotte"
     },
     {
         "code": "armitages_fate",
         "name": "Il Destino di Armitage"
+    },
+    {
+        "code": "at_deaths_doorstep",
+        "name": "At Death's Doorstep"
     },
     {
         "code": "bad_luck",
@@ -48,6 +68,14 @@
         "name": "Bestie Servitrici"
     },
     {
+        "code": "before_the_black_throne",
+        "name": "Before the Black Throne"
+    },
+    {
+        "code": "beyond_the_threshold",
+        "name": "Beyond the Threshold"
+    },
+    {
         "code": "bishops_thralls",
         "name": "Servitori di Bishop"
     },
@@ -60,12 +88,24 @@
         "name": "Sangue sull'Altare"
     },
     {
+        "code": "brotherhood_of_the_beast",
+        "name": "Brotherhood of the Beast"
+    },
+    {
         "code": "byakhee",
         "name": "Byakhee"
     },
     {
         "code": "chilling_cold",
         "name": "Freddo Raggelante"
+    },
+    {
+        "code": "city_of_sins",
+        "name": "City of Sins"
+    },
+    {
+        "code": "creeping_cold",
+        "name": "Creeping Cold"
     },
     {
         "code": "cult_of_the_yellow_sign",
@@ -92,6 +132,10 @@
         "name": "La Cupa Carcosa"
     },
     {
+        "code": "disappearance_at_the_twilight_estate",
+        "name": "Disappearance at the Twilight Estate"
+    },
+    {
         "code": "dunwich",
         "name": "Dunwich"
     },
@@ -101,7 +145,11 @@
     },
     {
         "code": "epic_multiplayer",
-        "name": "Epic Multiplayer"
+        "name": "Multiplayer Epico"
+    },
+    {
+        "code": "erratic_fear",
+        "name": "Erratic Fear"
     },
     {
         "code": "essex_county_express",
@@ -113,7 +161,7 @@
     },
     {
         "code": "expedition",
-        "name": "Expedition"
+        "name": "Spedizione"
     },
     {
         "code": "extracurricular_activity",
@@ -121,23 +169,31 @@
     },
     {
         "code": "eztli",
-        "name": "The Doom of Eztli"
+        "name": "La Maledizione di Eztli"
     },
     {
         "code": "flood",
-        "name": "The Flood Below"
+        "name": "Inondazione in Terra"
     },
     {
         "code": "flux",
-        "name": "Temporal Flux"
+        "name": "Flusso Temporale"
+    },
+    {
+        "code": "for_the_greater_good",
+        "name": "For the Greater Good"
     },
     {
         "code": "ghouls",
         "name": "Ghoul"
     },
     {
+        "code": "ghouls_of_umôrdhoth",
+        "name": "Ghoul di Umôrdhoth"
+    },
+    {
         "code": "guardians_of_time",
-        "name": "Guardians of Time"
+        "name": "Guardiani del Tempo"
     },
     {
         "code": "hasturs_gift",
@@ -149,19 +205,35 @@
     },
     {
         "code": "heart_of_the_elders",
-        "name": "Heart of the Elders"
+        "name": "Cuore degli Antichi"
     },
     {
         "code": "hideous_abominations",
         "name": "Orrendi Abomini"
     },
     {
+        "code": "in_the_clutches_of_chaos",
+        "name": "In the Clutches of Chaos"
+    },
+    {
         "code": "in_the_labyrinths_of_lunacy",
-        "name": "In The Labyrinths of Lunacy"
+        "name": "I Labirinti della Follia"
+    },
+    {
+        "code": "inexorable_fate",
+        "name": "Inexorable Fate"
     },
     {
         "code": "inhabitants_of_carcosa",
         "name": "Cittadini di Carcosa"
+    },
+    {
+        "code": "k'n-yan",
+        "name": "K'n-yan"
+    },
+    {
+        "code": "knyan",
+        "name": "K'n-yan"
     },
     {
         "code": "locked_doors",
@@ -184,20 +256,80 @@
         "name": "Culto Oscuro"
     },
     {
+        "code": "pillars_of_judgment",
+        "name": "Pilastri del Giudizio"
+    },
+    {
         "code": "pnakotic_brotherhood",
-        "name": "Pnakotic Brotherhood"
+        "name": "Confraternita Pnakotica"
     },
     {
         "code": "poison",
-        "name": "Poison"
+        "name": "Veleno"
     },
     {
         "code": "rainforest",
-        "name": "Rainforest"
+        "name": "Foresta Pluviale"
     },
     {
         "code": "rats",
         "name": "Ratti"
+    },
+    {
+        "code": "realm_of_death",
+        "name": "Realm of Death"
+    },
+    {
+        "code": "resurgent_evils",
+        "name": "Resurgent Evils"
+    },
+    {
+        "code": "return_cult",
+        "name": "Ritorno a... Culto di Umordhoth"
+    },
+    {
+        "code": "return_to_blood_on_the_altar",
+        "name": "Return to Blood on the Altar"
+    },
+    {
+        "code": "return_to_extracurricular_activities",
+        "name": "Return to Extracurricular Activities"
+    },
+    {
+        "code": "return_to_lost_in_time_and_space",
+        "name": "Return to Lost in Time and Space"
+    },
+    {
+        "code": "return_to_the_devourer_below",
+        "name": "Ritorno a... Il Divoratore Sotterraneo"
+    },
+    {
+        "code": "return_to_the_essex_county_express",
+        "name": "Return to The Essex County Express"
+    },
+    {
+        "code": "return_to_the_gathering",
+        "name": "Ritorno a... L'Adunanza"
+    },
+    {
+        "code": "return_to_the_house_always_wins",
+        "name": "Return to The House Always Wins"
+    },
+    {
+        "code": "return_to_the_midnight_masks",
+        "name": "Ritorno a... Le Maschere di Mezzanotte"
+    },
+    {
+        "code": "return_to_the_miskatonic_museum",
+        "name": "Return to The Miskatonic Museum"
+    },
+    {
+        "code": "return_to_undimensioned_and_unseen",
+        "name": "Return to Undimensioned and Unseen"
+    },
+    {
+        "code": "return_to_where_doom_awaits",
+        "name": "Return to Where Doom Awaits"
     },
     {
         "code": "rougarou",
@@ -205,23 +337,39 @@
     },
     {
         "code": "ruins",
-        "name": "Forgotten Ruins"
+        "name": "Rovine Dimenticate"
+    },
+    {
+        "code": "sands_of_egypt",
+        "name": "Sands of Egypt"
+    },
+    {
+        "code": "secret_doors",
+        "name": "Secret Doors"
     },
     {
         "code": "serpents",
-        "name": "Serpents"
+        "name": "Serpenti"
     },
     {
         "code": "shattered_aeons",
-        "name": "Shattered Aeons"
+        "name": "Eoni Infranti"
+    },
+    {
+        "code": "silver_twilight_lodge",
+        "name": "Silver Twilight Lodge"
     },
     {
         "code": "single_group",
-        "name": "Single"
+        "name": "Singole"
     },
     {
         "code": "sorcery",
         "name": "Stregoneria"
+    },
+    {
+        "code": "spectral_predators",
+        "name": "Spectral Predators"
     },
     {
         "code": "stranger",
@@ -241,19 +389,27 @@
     },
     {
         "code": "the_boundary_beyond",
-        "name": "The Boundary Beyond"
+        "name": "Oltre i Confini"
     },
     {
         "code": "the_city_of_archives",
-        "name": "The City of Archives"
+        "name": "Città degli Archivi"
     },
     {
         "code": "the_depths_of_yoth",
-        "name": "The Depths of Yoth"
+        "name": "Abissi di Yoth"
+    },
+    {
+        "code": "the_devourers_cult",
+        "name": "Culto del Divoratore"
+    },
+    {
+        "code": "the_eternal_slumber",
+        "name": "The Eternal Slumber"
     },
     {
         "code": "the_flood_below",
-        "name": "L'Inondazione Sotto"
+        "name": "Inondazione in Terra"
     },
     {
         "code": "the_house_always_wins",
@@ -268,8 +424,16 @@
         "name": "Il Museo della Miskatonic"
     },
     {
+        "code": "the_nights_usurper",
+        "name": "The Night's Usurper"
+    },
+    {
         "code": "the_pallid_mask",
         "name": "La Maschera Pallida"
+    },
+    {
+        "code": "the_secret_name",
+        "name": "The Secret Name"
     },
     {
         "code": "the_unspeakable_oath",
@@ -277,23 +441,47 @@
     },
     {
         "code": "the_vortex_above",
-        "name": "Il Vortice Sopra"
+        "name": "Vortice in Cielo"
+    },
+    {
+        "code": "the_wages_of_sin",
+        "name": "The Wages of Sin"
+    },
+    {
+        "code": "the_watcher",
+        "name": "The Watcher"
+    },
+    {
+        "code": "the_witching_hour",
+        "name": "The Witching Hour"
     },
     {
         "code": "threads_of_fate",
-        "name": "Threads of Fate"
+        "name": "Trame del Fato"
     },
     {
         "code": "torch",
         "name": "L'Adunanza"
     },
     {
+        "code": "trapped_spirits",
+        "name": "Trapped Spirits"
+    },
+    {
         "code": "traps",
-        "name": "Deadly Traps"
+        "name": "Trappole Mortali"
+    },
+    {
+        "code": "turn_back_time",
+        "name": "Turn Back Time"
     },
     {
         "code": "undimensioned_and_unseen",
         "name": "Le Dimensioni dell'Invisibile"
+    },
+    {
+        "code": "union_and_disillusion",
+        "name": "Union and Disillusion"
     },
     {
         "code": "unknown",
@@ -305,11 +493,11 @@
     },
     {
         "code": "venom",
-        "name": "Yig's Venom"
+        "name": "Agenti di Yig"
     },
     {
         "code": "vortex",
-        "name": "The Vortex Above"
+        "name": "Vortice in Cielo"
     },
     {
         "code": "where_doom_awaits",
@@ -321,6 +509,14 @@
     },
     {
         "code": "wilds",
-        "name": "The Untamed Wilds"
+        "name": "La Foresta Inviolata"
+    },
+    {
+        "code": "witchcraft",
+        "name": "Witchcraft"
+    },
+    {
+        "code": "yog_sothoths_emissaries",
+        "name": "Yog-Sothoth's Emissaries"
     }
 ]

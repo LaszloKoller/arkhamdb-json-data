@@ -1,7 +1,7 @@
 [
     {
         "code": "core",
-        "name": "Boite de base"
+        "name": "Boîte de base"
     },
     {
         "code": "dwl",
@@ -13,7 +13,7 @@
     },
     {
         "code": "ptc",
-        "name": "La route de Carcosa"
+        "name": "La Route de Carcosa"
     },
     {
         "code": "return",
@@ -22,6 +22,14 @@
     {
         "code": "side_stories",
         "name": "Scénarios Indépendants"
+    },
+    {
+        "code": "tcu",
+        "name": "Le Cercle Brisé"
+    },
+    {
+        "code": "tde",
+        "name": "Les Dévoreurs de Rêves"
     },
     {
         "code": "tfa",

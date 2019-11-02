@@ -14,7 +14,7 @@
         "flavor": "\"Découvrir est facile. C'est comprendre qui est difficile.\"",
         "name": "Ursula Downs",
         "subname": "L'Exploratrice",
-        "text": "[reaction] Après que vous vous êtes déplacé vers un lieu : effectuez une cate Enquêter. (Limite d'une fois par round.)\n[elder_sign] : +1. Après la fin de ce test, vous avez le droit de vous déplacez vers un lieu connexe.",
+        "text": "[reaction] Après que vous vous êtes déplacé vers un lieu : effectuez une action Enquêter. (Limite d'une fois par round.)\n[elder_sign] : +1. Après la fin de ce test, vous avez le droit de vous déplacez vers un lieu connexe.",
         "traits": "Voyageur.",
         "back_flavor": "Peu de gens peuvent se targuer d'avoir escaladé une montagne sur chaque continent. Encore moins peuvent s'enorgeuillir d'avoir dérobé une idole en or à une tribu de cannibales. Ce qui rend une femme comme Ursula unique dans cette société dominée par les hommes, c'est qu'elle peut s'en vanter. Depuis sa plus tendre enfance, Ursula a toujours enfreint les règles qui lui étaient dictées : grimper aux arbres, jouer dans la boue, explorer les bois et faire de toutes ces choses qu'une \"jeune femme de bonnes famille ne devrait pas faire\". Depuis l'obtention de son diplôme d'archéologie à Boston, elle voyage à travers le monde à la recherche de civilisations oubliées.",
         "back_text": "<b>Taille du deck:</b> 30.\n<b>Construction du Deck:</b> cartes Chercheur ([seeker]) de niveaux 0 à 5, cartes [[Relic]] de niveaux 0 à 4, cartes neutres de niveaux 0 à 5.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck): Jake Williams, L'Appel de l'Inconnu, 1 faiblesse de base au hasard."
@@ -26,8 +26,8 @@
         "subname": "Le Contrebandier",
         "text": "Vous avez le droit d'effectuer une action supplémentaire durant votre tour, qui ne peut être utilisée que vous s'échapper.\n[elder_sign] : +1 pour chaque ennemi incliné en jeu. En cas de réussite acec une différence de 2 ou plus, vous avez le droit de découvrir 1 indice dans votre lieu.",
         "traits": "Criminel.",
-        "back_flavor": "La prohibition est la meilleure chose qui soit jamais arrivée à Finn Edwards. Avant que l'alcool ne soit inderdit, il se laissait porter par les évènements, vivant de petits boulots àa et là. Mais après, la demande en alcool a pris une telle ampleur qu'il a pu vivre de l'irrespect de la loi tout en donnant aux gens ce qu'ils voulaient. Son nouveau style de vie collait parfaitement à sa personnalité, répondant à son goût pour le danger et lui rapportant un paquet d'oseille. Il n'a jamais été pris et n'a jamais manqué une livraison. Le boilà à présent embarqué dans une sorte de conspiration surnaturelle, mais au fond le principe n'est pas si différent : livrer la marchandise et ne pas se faire pincer.",
-        "back_text": "<b>Taille du deck:</b> 30.\n<b>Construction du Deck:</b> cartes [[Illicit]] de niveaux 0 à 5, cartes Truand ([rogue]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, jusqu'à 5 autres cartes Chercheur et/ou Survivant ([seeker]et/ou [survivor]) de niveau 0.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck): Produits de Contrebande, Le Fidèle .38 de Finn, Pris la Main dans le Sac, 1 faiblesse de base au hasard."
+        "back_flavor": "La prohibition est la meilleure chose qui soit jamais arrivée à Finn Edwards. Avant que l'alcool ne soit inderdit, il se laissait porter par les évènements, vivant de petits boulots ça et là. Mais après, la demande en alcool a pris une telle ampleur qu'il a pu vivre de l'irrespect de la loi tout en donnant aux gens ce qu'ils voulaient. Son nouveau style de vie collait parfaitement à sa personnalité, répondant à son goût pour le danger et lui rapportant un paquet d'oseille. Il n'a jamais été pris et n'a jamais manqué une livraison. Le voilà à présent embarqué dans une sorte de conspiration surnaturelle, mais au fond le principe n'est pas si différent : livrer la marchandise et ne pas se faire pincer.",
+        "back_text": "<b>Taille du deck:</b> 30.\n<b>Construction du Deck:</b> cartes [[Illicite]] de niveaux 0 à 5, cartes Truand ([rogue]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, jusqu'à 5 autres cartes Chercheur et/ou Survivant ([seeker]et/ou [survivor]) de niveau 0.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck): Produits de Contrebande, Le Fidèle .38 de Finn, Pris la Main dans le Sac, 1 faiblesse de base au hasard."
     },
     {
         "code": "04004",
@@ -282,8 +282,8 @@
     },
     {
         "code": "04039",
-        "name": "The Price of Failure",
-        "text": "<b>Revelation</b> - Take 2 damage and 2 horror. Place 1 doom on the current agenda (this effect can cause thee current agenda to advance). Remove The Price of Failure from your deck. Search the collection for Dark Pact and place it in your discard pile.",
+        "name": "Le Prix de l'Echec",
+        "text": "<b>Révélation</b> - Subissez 2 dégats et 2 horreurs. Placez 1 fatalité sur l'intrigue en cours (cete ffet peut faire avance l'intrigue en cours). Retirez Le Prix de l'Echec de votre deck. Chechez Sombre Pacte dans la collection et placez-le dans votre pile de défausse.",
         "traits": "Pacte."
     },
     {
@@ -294,15 +294,15 @@
     },
     {
         "code": "04041",
-        "name": "Accursed Fate",
-        "text": "<b>Revelation</b> - Take 2 horror. In your Campaign Log, under your investigator's earned story assets/weaknesses, record that \"the hour is nigh.\" If this was already recorded, remove Accursed Fate from your deck, search the collection for The Bell Tolls, and place it on the bottom of your deck.",
+        "name": "Destin Inéluctable",
+        "text": "<b>Révélation</b> - Subissez 2 horreurs. Dans votre Carnet de Campagne, sous la mention soutiens d'histoire / faiblesses obtenu(e)s de votre investigateur, indiquez que \"l'heure est sombre.\". Si cela est déjà indiqué, retirez Destin Inéluctable de votre deck, cherchez Le Glas Sonne dans la collection et placez-le sous votre deck.",
         "traits": "Malédiction."
     },
     {
         "code": "04042",
         "flavor": "C'est pour vous.\n Cela l'a toujours été.",
-        "name": "The Bell Tolls",
-        "text": "<b>Revelation</b> - The hour of your demise has arrived. You are <b>killed</b>.",
+        "name": "Le Glas Sonne",
+        "text": "<b>Révélation</b> - L'heure de votre trépas a sonné. Vous êtes <b>tué</b>.",
         "traits": "Malédiction."
     }
 ]

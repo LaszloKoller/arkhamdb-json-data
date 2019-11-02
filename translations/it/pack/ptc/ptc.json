@@ -111,7 +111,7 @@
         "code": "03014",
         "name": "Portavoce degli Spiriti",
         "subname": "Emissario degli Alusi",
-        "text": "Solo mazzo di Akachi Onyele.\n[lightning] Esaurisci la Portavoce degli Spiriti: Scegli 1 supporto che controlli con Utilizzo (X cariche). Scegli se rimettere quel supporto nella tua mano oppure spostare tutte le cariche da quel supporto alla tua riserva delle risorse <b>(trasformandole in risorse)</b> e scartare quel supporto.",
+        "text": "Solo mazzo di Akachi Onyele.\n[lightning] Esaurisci la Portavoce degli Spiriti: Scegli 1 supporto che controlli con Utilizzo (X cariche). Scegli se rimettere quel supporto nella tua mano oppure spostare tutte le cariche da quel supporto alla tua riserva delle risorse <i>(trasformandole in risorse)</i> e scartare quel supporto.",
         "traits": "Rituale."
     },
     {
@@ -217,7 +217,7 @@
     {
         "code": "03030",
         "flavor": "\"McGlen, stai cercando di farci ammazzare tutti e due?\"\n\"Non stavolta, amico. Non stavolta.\"",
-        "name": "Mavora Spericolata",
+        "name": "Manovra Spericolata",
         "text": "Veloce. Solo quando stai per avere successo in una prova di abilità.\nRicevi +2 al tuo valore di abilità in questa prova.",
         "traits": "Azzardo."
     },

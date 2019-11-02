@@ -78,7 +78,7 @@
         "date_release": "2017-09-15",
         "name": "The Path to Carcosa",
         "position": 1,
-        "size": 120
+        "size": 110
     },
     {
         "cgdb_id": 12,
@@ -132,7 +132,7 @@
         "date_release": "2018-03-22",
         "name": "Dim Carcosa",
         "position": 7,
-        "size": 60
+        "size": 45
     },
     {
         "cgdb_id": 19,
@@ -141,7 +141,7 @@
         "date_release": "2018-05-10",
         "name": "The Forgotten Age",
         "position": 1,
-        "size": 140
+        "size": 102
     },
     {
         "cgdb_id": 20,
@@ -150,45 +150,170 @@
         "date_release": "2018-06-14",
         "name": "Threads of Fate",
         "position": 2,
-        "size": 60
+        "size": 47
     },
     {
+	"cgdb_id": 21,
         "code": "tbb",
         "cycle_code": "tfa",
-        "date_release": null,
+        "date_release": "2018-07-19",
         "name": "The Boundary Beyond",
         "position": 3,
-        "size": 60
+        "size": 43
     },
     {
+	"cgdb_id": 22,
         "code": "hote",
         "cycle_code": "tfa",
-        "date_release": null,
+        "date_release": "2018-08-16",
         "name": "Heart of the Elders",
         "position": 4,
-        "size": 60
+        "size": 38
     },
     {
+	"cgdb_id": 23,
         "code": "tcoa",
         "cycle_code": "tfa",
-        "date_release": null,
+        "date_release": "2018-09-13",
         "name": "The City of Archives",
         "position": 5,
-        "size": 60
+        "size": 36
     },
     {
+	"cgdb_id": 24,
         "code": "tdoy",
         "cycle_code": "tfa",
-        "date_release": null,
+        "date_release": "2018-10-11",
         "name": "The Depths of Yoth",
+        "position": 6,
+        "size": 39
+    },
+    {
+	"cgdb_id": 25,
+        "code": "sha",
+        "cycle_code": "tfa",
+        "date_release": "2018-11-14",
+        "name": "Shattered Aeons",
+        "position": 7,
+        "size": 46
+    },
+    {
+	"cgdb_id": 29,
+        "code": "tcu",
+        "cycle_code": "tcu",
+        "date_release": "2019-01-31",
+        "name": "The Circle Undone",
+        "position": 1,
+        "size": 109
+    },
+    {
+	"cgdb_id": 30,
+        "code": "tsn",
+        "cycle_code": "tcu",
+        "date_release": "2019-03-14",
+        "name": "The Secret Name",
+        "position": 2,
+        "size": 42
+    },
+    {
+        "cgdb_id": 31,
+        "code": "wos",
+        "cycle_code": "tcu",
+        "date_release": "2019-04-04",
+        "name": "The Wages of Sin",
+        "position": 3,
+        "size": 40
+    },
+    {
+        "cgdb_id": 32,
+        "code": "fgg",
+        "cycle_code": "tcu",
+        "date_release": "2019-05-02",
+        "name": "For the Greater Good",
+        "position": 4,
+        "size": 43
+    },
+    {
+        "cgdb_id": 33,
+        "code": "uad",
+        "cycle_code": "tcu",
+        "date_release": "2019-06-06",
+        "name": "Union and Disillusion",
+        "position": 5,
+        "size": 44
+    },
+    {
+        "cgdb_id": 34,
+        "code": "icc",
+        "cycle_code": "tcu",
+        "date_release": "2019-07-04",
+        "name": "In the Clutches of Chaos",
         "position": 6,
         "size": 60
     },
     {
-        "code": "sha",
-        "cycle_code": "tfa",
+        "cgdb_id":35, 
+        "code": "bbt",
+        "cycle_code": "tcu",
+        "date_release": "2019-07-26",
+        "name": "Before the Black Throne",
+        "position": 7,
+        "size": 60
+    },
+    {
+	"cgdb_id": 37,
+        "code": "tde",
+        "cycle_code": "tde",
+        "date_release": "2019-09-27",
+        "name": "The Dream-Eaters",
+        "position": 1,
+        "size": 160
+    },
+    {
+        "code": "sfk",
+        "cycle_code": "tde",
         "date_release": null,
-        "name": "Shattered Aeons",
+        "name": "The Search for Kadath",
+        "position": 2,
+        "size": 60
+    },
+    {
+        "code": "tsh",
+        "cycle_code": "tde",
+        "date_release": null,
+        "name": "A Thousand Shapes of Horror",
+        "position": 3,
+        "size": 60
+    },
+    {
+        "code": "dsm",
+        "cycle_code": "tde",
+        "date_release": null,
+        "name": "Dark Side of the Moon",
+        "position": 4,
+        "size": 60
+    },
+    {
+        "code": "pnr",
+        "cycle_code": "tde",
+        "date_release": null,
+        "name": "Point of No Return",
+        "position": 5,
+        "size": 60
+    },
+    {
+        "code": "wgd",
+        "cycle_code": "tde",
+        "date_release": null,
+        "name": "Where the Gods Dwell",
+        "position": 6,
+        "size": 60
+    },
+    {
+        "code": "woc",
+        "cycle_code": "tde",
+        "date_release": null,
+        "name": "Weaver of the Cosmos",
         "position": 7,
         "size": 60
     },
@@ -218,6 +343,15 @@
         "name": "The Labyrinths of Lunacy",
         "position": 3,
         "size": 70
+    },
+    {
+        "cgdb_id": 27,
+        "code": "guardians",
+        "cycle_code": "side_stories",
+        "date_release": "2018-11-29",
+        "name": "Guardians of the Abyss",
+        "position": 4,
+        "size": 58
     },  
     {
         "code": "books",
@@ -236,12 +370,29 @@
         "size": 9
     },
     {
-	"cgdb_id": 26,
+        "cgdb_id": 26,
         "code": "rtnotz",
         "cycle_code": "return",
         "date_release": "2018-06-28",
         "name": "Return to the Night of the Zealot",
         "position": 1,
-        "size": 90
+        "size": 48
+    },
+    {
+        "cgdb_id": 28,
+        "code": "rtdwl",
+        "cycle_code": "return",
+        "date_release": "2019-01-10",
+        "name": "Return to the Dunwich Legacy",
+        "position": 2,
+        "size": 73
+    },
+    {
+        "code": "rtptc",
+        "cycle_code": "return",
+        "date_release": "2019-10-10",
+        "name": "Return to the Path to Carcosa",
+        "position": 3,
+        "size": 100
     }
 ]

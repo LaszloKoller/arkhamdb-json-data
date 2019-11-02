@@ -4,6 +4,10 @@
         "name": "El fantasma de la verdad"
     },
     {
+        "code": "bbt",
+        "name": "Ante el trono negro"
+    },
+    {
         "code": "books",
         "name": "Libros"
     },
@@ -32,6 +36,10 @@
         "name": "Penumbrosa Carcosa"
     },
     {
+        "code": "dsm",
+        "name": "El lado oscuro de la luna"
+    },
+    {
         "code": "dwl",
         "name": "El legado de Dunwich"
     },
@@ -40,8 +48,20 @@
         "name": "Ecos del pasado"
     },
     {
+        "code": "fgg",
+        "name": "Por el bien común"
+    },
+    {
+        "code": "guardians",
+        "name": "Guardianes del abismo"
+    },
+    {
         "code": "hote",
         "name": "El corazón de los ancianos"
+    },
+    {
+        "code": "icc",
+        "name": "En las garras del caos"
     },
     {
         "code": "litas",
@@ -52,6 +72,10 @@
         "name": "The Labyrinths of Lunacy"
     },
     {
+        "code": "pnr",
+        "name": "Punto sin retorno"
+    },
+    {
         "code": "promo",
         "name": "Promo"
     },
@@ -60,12 +84,24 @@
         "name": "El camino a Carcosa"
     },
     {
+        "code": "rtdwl",
+        "name": "Regreso a El legado de Dunwich"
+    },
+    {
         "code": "rtnotz",
-        "name": "Return to the Night of the Zealot"
+        "name": "Regreso a La noche de la fanática"
+    },
+    {
+        "code": "rtptc",
+        "name": "Return to the Path to Carcosa"
+    },
+    {
+        "code": "sfk",
+        "name": "La búsqueda de Kadath"
     },
     {
         "code": "sha",
-        "name": "Shattered Aeons"
+        "name": "Eones destrozados"
     },
     {
         "code": "tbb",
@@ -73,11 +109,19 @@
     },
     {
         "code": "tcoa",
-        "name": "The City of Archives"
+        "name": "La Ciudad de los Archivos"
+    },
+    {
+        "code": "tcu",
+        "name": "El Círculo Roto"
+    },
+    {
+        "code": "tde",
+        "name": "The Dream-Eaters"
     },
     {
         "code": "tdoy",
-        "name": "The Depths of Yoth"
+        "name": "Las profundidades de Yoth"
     },
     {
         "code": "tece",
@@ -100,8 +144,20 @@
         "name": "La máscara pálida"
     },
     {
+        "code": "tsh",
+        "name": "Mil formas de horror"
+    },
+    {
+        "code": "tsn",
+        "name": "El nombre secreto"
+    },
+    {
         "code": "tuo",
         "name": "El juramento inconfesable"
+    },
+    {
+        "code": "uad",
+        "name": "Union and Disillusion"
     },
     {
         "code": "uau",
@@ -110,5 +166,17 @@
     {
         "code": "wda",
         "name": "Donde aguarda la perdición"
+    },
+    {
+        "code": "wgd",
+        "name": "Donde moran los dioses"
+    },
+    {
+        "code": "woc",
+        "name": "Tejedora del cosmos"
+    },
+    {
+        "code": "wos",
+        "name": "La paga del pecado"
     }
 ]
